@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ILC Media Player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-25 12:05-0300\n"
+"PO-Revision-Date: 2012-06-25 12:05-0300\n"
+"Last-Translator: \n"
+"Language-Team: http://ilovecolors.com.ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;sprintf\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ilc-admin.php:40
+msgid "Welcome!"
+msgstr "Bienvenido"
+
+#: ../ilc-admin.php:41
+msgid "Thanks for downloading Media Queries Monitor. This plugin will display posts related to the post that the user is currently reading. You can choose to display posts related through categories, tags or custom taxonomies."
+msgstr "Gracias por bajar Media Queries Monitor. Este plugin mostrará entradas relacionadas a la entrada que el visitante está actualmente leyendo. Puedes escoger mostrar entradas a través de categorías, etiquetas o taxonomías personalizadas."
+
+#: ../ilc-admin.php:43
+#, php-format
+msgid "ILC Media Queries Monitor created by Elio Rivero. Follow %s on Twitter for the latest updates."
+msgstr "ILC Media Queries Monitor creado por Elio Rivero. Sigue %s en Twitter para las últimas novedades."
+
+#: ../ilc-admin.php:46
+msgid "Introduction"
+msgstr "Introducción"
+
+#: ../ilc-admin.php:58
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permiso para acceder a esta página."
+
+#: ../ilc-admin.php:63
+msgid "ILC Media Queries Monitor"
+msgstr "ILC Monitor de Media Queries"
+
+#: ../ilc-admin.php:68
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../ilc-admin.php:83
+msgid "Posts settings"
+msgstr "Ajustes de entradas"
+
+#: ../ilc-admin.php:88
+msgid "Media Queries"
+msgstr "Media Queries"
+
+#: ../ilc-admin.php:92
+msgid "Enter each media query in use, separated by commas."
+msgstr "Ingrese cada media query en uso, separada por comas."
+
+#: ../ilc-admin.php:165
+msgid "Set default values to retrieve related posts."
+msgstr "Establece valores predeterminados para obtener las entradas relacionadas."
+
+#: ../ilc-admin.php:213
+msgid "Settings"
+msgstr "Ajustes"
+
+#~ msgid "About the settings"
+#~ msgstr "Acerca de los ajustes"
+
+#~ msgid ""
+#~ "The settings in this page set default values to be used on the site but "
+#~ "you can override the value in each post using the meta box labeled "
+#~ "\"Related Posts\" where you will find similar controls."
+#~ msgstr ""
+#~ "Los ajustes en esta página establecen valores predeterminados pero puedes "
+#~ "reemplazar la consulta de entradas en la edición de cada entrada usando "
+#~ "la meta box etiquetada \"Entradas relacionadas\" donde encontrarás "
+#~ "controles similares."
+
+#~ msgid ""
+#~ "For better control of the placement of related posts in your theme, a <a "
+#~ "href=\"http://codex.wordpress.org/Template_Tags\" target=\"_blank"
+#~ "\">template tag</a> is provided to be used in the code."
+#~ msgstr ""
+#~ "Para un mejor control de la ubicación de las entradas relacionadas en tu "
+#~ "tema, una <a href=\"http://codex.wordpress.org/Template_Tags\" target="
+#~ "\"_blank\">template tag</a> es provista para ser usada en el código."
+
+#~ msgid ""
+#~ "Where the $args parameter is an array whose values are described in the "
+#~ "documentation."
+#~ msgstr ""
+#~ "Donde el parámetro $args es un array cuyos valores se describen en la "
+#~ "documentación."
+
+#~ msgid ""
+#~ "The template tag is intended to be used by advanced users since its "
+#~ "placement must be within the scope of the post in a loop."
+#~ msgstr ""
+#~ "La template tag es para uso de usuarios avanzados dado que su ubicación "
+#~ "debe estar dentro del alcance de la entrada en el loop."
+
+#~ msgid "Template tag"
+#~ msgstr "Template tag"
+
+#~ msgid ""
+#~ "To place related posts within your content you can use the <a href="
+#~ "\"http://codex.wordpress.org/Shortcode\" target=\"_blank\">shortcode</a> "
+#~ "provided. For example, while editing your post, type"
+#~ msgstr ""
+#~ "Para colocar entradas relacionadas en tu contenido puedes usar el <a href="
+#~ "\"http://codex.wordpress.org/Shortcode\" target=\"_blank\">shortcode</a> "
+#~ "provisto. Por ejemplo, al editar tu post, escribe"
+
+#~ msgid "Each parameter is described in the documentation."
+#~ msgstr "Cada parámetro se describe en la documentación."
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "ILC Related Posts"
+#~ msgstr "ILC Entradas Relacionadas"
+
+#~ msgid "Carousel"
+#~ msgstr "Carousel"
+
+#~ msgid "Styling"
+#~ msgstr "Estilizado"
+
+#~ msgid "Posts to show"
+#~ msgstr "Entradas a mostrar"
+
+#~ msgid ""
+#~ "Default number of related posts to be shown. Can be overriden in each "
+#~ "post."
+#~ msgstr ""
+#~ "Número predeterminado de entradas relacionadas a mostrar. Puede ser "
+#~ "reemplazado en cualquier entrada."
+
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomía"
+
+#~ msgid ""
+#~ "Taxonomy used to get the related posts. Can be overriden in each post."
+#~ msgstr ""
+#~ "Taxonomía usada para obtener las entradas relacionadas. Puede ser "
+#~ "reemplazado en cada entrada."
+
+#~ msgid "Placement"
+#~ msgstr "Ubicación"
+
+#~ msgid "Before the post content."
+#~ msgstr "Antes del contenido de la entrada."
+
+#~ msgid "After the post content."
+#~ msgstr "Después del contenido de la entrada."
+
+#~ msgid "None. I will use the template tag or the shortcode."
+#~ msgstr "Ninguno. Usaré la template tag o el shortcode."
+
+#~ msgid "Choose how or where you want to display the related posts."
+#~ msgstr "Escoge como o donde quieres mostrar las entradas relacionadas."
+
+#~ msgid "Visibility"
+#~ msgstr "Visibilidad"
+
+#~ msgid "Show only on single view of post."
+#~ msgstr "Mostrar solo en la vista singular de la entrada."
+
+#~ msgid "Featured Image"
+#~ msgstr "Imagen destacada"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Miniatura"
+
+#~ msgid "Medium"
+#~ msgstr "Media"
+
+#~ msgid "Large"
+#~ msgstr "Grande"
+
+#~ msgid "Original size"
+#~ msgstr "Tamaño original"
+
+#~ msgid "None"
+#~ msgstr "Nada"
+
+#~ msgid "Choose the size of the featured image to use."
+#~ msgstr "Escoge el tamaño de la imagen destacada a usar."
+
+#~ msgid "Enable."
+#~ msgstr "Activar."
+
+#~ msgid "Minimum number of items to create slider"
+#~ msgstr "Mínimo número de ítems para crear el slider"
+
+#~ msgid ""
+#~ "For the slider to be created, this value must be smaller than the \"Posts "
+#~ "to show\" number at least by 1."
+#~ msgstr ""
+#~ "Para que el slider sea creado, este valor debe ser inferior al de "
+#~ "\"Entradas a mostrar\" al menos por 1."
+
+#~ msgid "Minimum number of visible items"
+#~ msgstr "Mínimo número de ítems visibles"
+
+#~ msgid "Maximum number of visible items"
+#~ msgstr "Máximo número de ítems visibles"
+
+#~ msgid "General width of items"
+#~ msgstr "Ancho general de los ítems"
+
+#~ msgid "Automatic scroll"
+#~ msgstr "Inicio automático"
+
+#~ msgid "Check to automatically play the carousel."
+#~ msgstr "Marca para desplazar automáticamente el carousel."
+
+#~ msgid "Arrows color"
+#~ msgstr "Color de las flechas"
+
+#~ msgid "Arrows hover color"
+#~ msgstr "Color hover de las flechas"
+
+#~ msgid "Arrows background color"
+#~ msgstr "Color de fondo de las flechas"
+
+#~ msgid "Arrows background hover color"
+#~ msgstr "Color hover de fondo de las flechas"
+
+#~ msgid "Roundness of arrows"
+#~ msgstr "Redondez del fondo de las flechas"
+
+#~ msgid "Enter a value in pixels."
+#~ msgstr "Ingresa un valor en pixeles."
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personalizado"
+
+#~ msgid ""
+#~ "After enabling this section the plugin will attempt to create a carousel "
+#~ "with the related posts if the number of posts to show is larger than the "
+#~ "number of visible items."
+#~ msgstr ""
+#~ "Luego de activar esta sección, el plugin tratará de crear un carousel con "
+#~ "las entradas relacionadas si el número de entradas a mostrar es mayor que "
+#~ "el número de ítems visibles."
+
+#~ msgid ""
+#~ "These CSS declarations will be outputted at the end, so you can use it to "
+#~ "tweak the plugin style to it matches your site."
+#~ msgstr ""
+#~ "Estas declaraciones CSS serán colocadas al final de la página, así que "
+#~ "puedes usarlo para ajustar el estilo del plugin a tu sitio."
+
+#~ msgid "Pick color"
+#~ msgstr "Escoge color"
+
+#~ msgid "Choose how to get related posts: by tag, category or custom taxonomy"
+#~ msgstr ""
+#~ "Escoge como obtener las entradas relacionadas: por etiqueta, categoría o "
+#~ "taxonomía personalizada"
+
+#~ msgid "Enter the desired number of related posts to show"
+#~ msgstr "Ingrese el número deseado de entradas relacionadas a mostrar"
+
+#~ msgid "Related Posts"
+#~ msgstr "Entradas relacionadas"
+
+#~ msgid "Previous"
+#~ msgstr "Previa"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "documentation"
+#~ msgstr "documentación"
+
+#~ msgid "$args"
+#~ msgstr "$argumentos"
+
+#~ msgid "Discs base color"
+#~ msgstr "Color de fondo de las flechas"
+
+#~ msgid "Discs hover color"
+#~ msgstr "Color hover de fondo de las flechas"
+
+#~ msgid ""
+#~ "<code>$taxonomy</code>: String. The taxonomy used to get related posts. "
+#~ "Admitted values can be category, post_tag or the key of a custom taxonomy."
+#~ msgstr ""
+#~ "<code>taxonomy</code>: Cadena. Taxonomía usada para obtener entradas "
+#~ "relacionadas. Valores admitidos pueden ser category, post_tag o el nombre "
+#~ "de una taxonomía personalizada."
+
+#~ msgid "Defaults to \"category\"."
+#~ msgstr "Predeterminado: \"category\"."
+
+#~ msgid "<code>$numberposts</code>: Integer. Number of posts to show."
+#~ msgstr "<code>$numberposts</code>: Entero. Número de entradas a mostrar."
+
+#~ msgid "Defaults to 3."
+#~ msgstr "Predeterminado: 3."
+
+#~ msgid ""
+#~ "<code>$image_size</code>: String. Name of a WordPress image size. "
+#~ "Admitted values are \"thumbnail\", \"medium\", \"large\", \"full\" or "
+#~ "\"none\"."
+#~ msgstr ""
+#~ "<code>image_size</code>: Cadena. Nombre de un tamaño de imagen WordPress. "
+#~ "Valores admitidos son \"thumbnail\", \"medium\", \"large\", \"full\" o "
+#~ "\"none\"."
+
+#~ msgid "Defaults to \"thumbnail\"."
+#~ msgstr "Predeterminado: \"thumbnail\"."
+
+#~ msgid ""
+#~ "<code>taxonomy</code>: The taxonomy used to get related posts. Admitted "
+#~ "values can be category, post_tag or the key of a custom taxonomy."
+#~ msgstr ""
+#~ "<code>taxonomy</code>: Taxonomía usada para obtener entradas "
+#~ "relacionadas. Valores admitidos pueden ser category, post_tag o el nombre "
+#~ "de una taxonomía personalizada."
+
+#~ msgid "<code>numberposts</code>: Number of posts to show."
+#~ msgstr "<code>numberposts</code>: Número de entradas a mostrar."
+
+#~ msgid ""
+#~ "<code>image_size</code>: Name of a WordPress image size. Admitted values "
+#~ "are \"thumbnail\", \"medium\", \"large\", \"full\" or \"none\"."
+#~ msgstr ""
+#~ "<code>image_size</code>: Nombre de un tamaño de imagen WordPress. Valores "
+#~ "admitidos son \"thumbnail\", \"medium\", \"large\", \"full\" o \"none\"."
+
+#~ msgid "Relate using"
+#~ msgstr "Relacionar usando"
+
+#~ msgid "Featured Image Size"
+#~ msgstr "Tamaño de la imagen destacada"
+
+#~ msgid ""
+#~ "When you activated this plugin, you created a new shortcode. A shortcode "
+#~ "is simply a piece text that you can write in your pages or posts to "
+#~ "produce extra functionalities."
+#~ msgstr ""
+#~ "Cuando activaste este plugin, creaste un nuevo shortcode. Un shortcode es "
+#~ "simplemente un texto que puedes escribir en tus páginas o entradas para "
+#~ "producir funcionalidades extra."
+
+#~ msgid ""
+#~ "You have 3 different shortcodes to play media files attached to your "
+#~ "entry:"
+#~ msgstr ""
+#~ "Tienes 3 diferentes shortcodes para reproducir medios adjuntados a la "
+#~ "entrada:"
+
+#~ msgid "plays all audio files attached to post"
+#~ msgstr "reproduce todos los archivos de audio adjuntados al post"
+
+#~ msgid "plays all audio and video files attached to post"
+#~ msgstr "reproduce todos los archivos de video adjuntados al post"
+
+#~ msgid "Adding the shortcode to your post or page"
+#~ msgstr "Agregando el shortcode a tu entrada o página"
+
+#~ msgid ""
+#~ "After uploading a video or audio file to the post, type the desired "
+#~ "shortcode in the post or page content and publish the post."
+#~ msgstr ""
+#~ "Luego de cargar un video o audio a la entrada, escribe el shortcode "
+#~ "deseado en el contenido de la entrada o página y publica el post."
+
+#~ msgid "The [audio] and [video] shortcodes support several attributes:"
+#~ msgstr "Los shortcodes [audio] y [video] soportan varios atributos:"
+
+#~ msgid "the URL of the media you want to play"
+#~ msgstr "la URL del medio que quieres reproducir"
+
+#~ msgid "the width of the audio player"
+#~ msgstr "el ancho del reproductor de audio"
+
+#~ msgid "the height of the video player"
+#~ msgstr "la altura del reproductor de video"
+
+#~ msgid "the width of the video player"
+#~ msgstr "el ancho del reproductor de video"
+
+#~ msgid ""
+#~ "exclude a media from being played using the id shown in the \"Attachment "
+#~ "ID\" field for the media in the gallery"
+#~ msgstr ""
+#~ "excluye un medio de la reproducción usando el ID mostrado en el campo "
+#~ "\"ID del adjunto\" en la galería de medios"
+
+#~ msgid "Using the shortcode"
+#~ msgstr "Usando el shortcode"
+
+#~ msgid "Reset"
+#~ msgstr "Reiniciar"
+
+#~ msgid ""
+#~ "To reset color controls to their default, simply clear the field and save "
+#~ "the settings."
+#~ msgstr ""
+#~ "Para reiniciar los controles de color al valor predeterminado, borra el "
+#~ "campo y guarda los ajustes."
+
+#~ msgid ""
+#~ "To remove roundness or glow, set the value to 0 and save the settings."
+#~ msgstr ""
+#~ "Para remover redondez o brillo, establece el valor a 0 y guarda los "
+#~ "ajustes."
+
+#~ msgid "Video Settings"
+#~ msgstr "Ajustes de video"
+
+#~ msgid "Default video width"
+#~ msgstr "Ancho de video predeterminado"
+
+#~ msgid "Default video height"
+#~ msgstr "Altura de video predeterminada"
+
+#~ msgid "Select control style"
+#~ msgstr "Selecciona el estilo de los controles"
+
+#~ msgid "Bright on dark"
+#~ msgstr "Claro sobre oscuro"
+
+#~ msgid "Dark on bright"
+#~ msgstr "Oscuro sobre claro"
+
+#~ msgid "Used also as the video background"
+#~ msgstr "Usado también como el fondo del video"
+
+#~ msgid "Base gradient top color"
+#~ msgstr "Color superior del degradado base"
+
+#~ msgid "Base gradient bottom color"
+#~ msgstr "Color inferior del degradado base"
+
+#~ msgid "Audio/Video base total color"
+#~ msgstr "Color base del total de audio/video"
+
+#~ msgid "Used for old browsers"
+#~ msgstr "Usado para navegadores antigüos."
+
+#~ msgid "Time numbers"
+#~ msgstr "Números del tiempo"
+
+#~ msgid "Roundness of the top corners of the player"
+#~ msgstr "Redondez de las esquinas superiores del reproductor"
+
+#~ msgid "Roundness of the bottom corners of the player"
+#~ msgstr "Redondez de las esquinas inferiores del reproductor"
+
+#~ msgid "Glow of progress bar"
+#~ msgstr "Brillo de la barra de progreso"
+
+#~ msgid "Enter a value in pixels. Set to 0 to disable glow."
+#~ msgstr "Ingresa un valor en pixeles."
+
+#~ msgid "Set default dimension for audio player."
+#~ msgstr "Establece la dimensión predeterminada para el reproductor de audio."
+
+#~ msgid "Set default dimensions for video player."
+#~ msgstr "Establece dimensiones predeterminadas para el reproductor de video."
+
+#~ msgid "Change the colors and appearance of the media player."
+#~ msgstr "Cambia los colores y apariencia del reproductor de medios."
+
+#~ msgid "Attachment ID"
+#~ msgstr "ID del adjunto:"
