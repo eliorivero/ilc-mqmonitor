@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ILC Media Player\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-25 12:05-0300\n"
-"PO-Revision-Date: 2012-06-25 12:05-0300\n"
+"POT-Creation-Date: 2012-06-28 22:32-0300\n"
+"PO-Revision-Date: 2012-06-28 22:34-0300\n"
 "Last-Translator: \n"
 "Language-Team: http://ilovecolors.com.ar\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +18,8 @@ msgid "Welcome!"
 msgstr "Bienvenido"
 
 #: ../ilc-admin.php:41
-msgid "Thanks for downloading Media Queries Monitor. This plugin will display posts related to the post that the user is currently reading. You can choose to display posts related through categories, tags or custom taxonomies."
-msgstr "Gracias por bajar Media Queries Monitor. Este plugin mostrará entradas relacionadas a la entrada que el visitante está actualmente leyendo. Puedes escoger mostrar entradas a través de categorías, etiquetas o taxonomías personalizadas."
+msgid "The ILC Media Queries Monitor plugin will show the current media query in use in the Admin Bar. You need to enter your media queries below"
+msgstr "El plugin ILC Monitor de Media Queries mostrará la media query en uso en la Admin Bar. Debes entrar tus media queries abajo"
 
 #: ../ilc-admin.php:43
 #, php-format
@@ -61,6 +61,17 @@ msgstr "Establece valores predeterminados para obtener las entradas relacionadas
 #: ../ilc-admin.php:213
 msgid "Settings"
 msgstr "Ajustes"
+
+#~ msgid ""
+#~ "Thanks for downloading Media Queries Monitor. This plugin will display "
+#~ "posts related to the post that the user is currently reading. You can "
+#~ "choose to display posts related through categories, tags or custom "
+#~ "taxonomies."
+#~ msgstr ""
+#~ "Gracias por bajar Media Queries Monitor. Este plugin mostrará entradas "
+#~ "relacionadas a la entrada que el visitante está actualmente leyendo. "
+#~ "Puedes escoger mostrar entradas a través de categorías, etiquetas o "
+#~ "taxonomías personalizadas."
 
 #~ msgid "About the settings"
 #~ msgstr "Acerca de los ajustes"
