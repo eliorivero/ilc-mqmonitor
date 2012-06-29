@@ -6,7 +6,7 @@
 
 jQuery(document).ready(function($) {
 	
-	$('#wp-admin-bar-root-default').prepend('<li><a class="mqmonitor" href="#">ILC Media Queries</a></li>');
+	$('#wp-admin-bar-root-default').prepend('<li><a class="mqmonitor" href="#">'+ilcmqm.lbl+'</a></li>');
 	
 	ilcmqs = ilcmqm.mq.split(',');
 	

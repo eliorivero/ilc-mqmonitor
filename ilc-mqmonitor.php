@@ -52,7 +52,8 @@ class ILC_MQM {
 		wp_enqueue_script('ilc-mqm-js', plugin_dir_url(__FILE__) . "includes/jquery.ilc-mqmonitor.js", array('jquery'), self::$version, true);
 		wp_localize_script('ilc-mqm-js', 'ilcmqm', array(
 			'mq' => $media_queries,
-			'fs' => $mq[0]
+			'fs' => $mq[0],
+			'lbl' => __('Resize', 'ilc')
 		));
 	}
 
