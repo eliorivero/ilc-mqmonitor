@@ -17,4 +17,4 @@ Usage
 If you now go to the front end and resize the viewport, you'll see the number changing according to the current media query in use.
 
 See the release post at
-http://www.ilovecolors.com.ar/monitor-media-queries-wordpress/
+https://startfunction.com/monitor-media-queries-wordpress/
