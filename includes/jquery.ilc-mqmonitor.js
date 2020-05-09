@@ -1,6 +1,6 @@
 /**
  * Media Queries Monitor script for WordPress Admin Bar
- * Created by ilovecolors.com.ar
+ * Created by startfunction.com
  * Follow me on Twitter twitter.com/eliorivero 
  */
 
