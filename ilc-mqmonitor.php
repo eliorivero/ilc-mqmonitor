@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: ILC Media Queries Monitor
- * Plugin URI: http://ilovecolors.com.ar/
+ * Plugin URI: https://startfunction.com/
  * Description: Displays which media query is currently in use in Admin Bar.
  * Author: Elio Rivero
- * Author URI: http://ilovecolors.com.ar
+ * Author URI: https://startfunction.com
  * Version: 1.0.0
  */
 
